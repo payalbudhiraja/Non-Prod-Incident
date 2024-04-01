@@ -1,7 +1,5 @@
 [
   {
-    "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
-    "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "INC00241059",
     "Incident_Summary": "Distribution",
     "Incident_Task":"ITASK101",
@@ -10,8 +8,6 @@
     "scrum_team": "Team1"
   },
   {
-    "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
-    "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "INC00241060",
     "Incident_Summary": "ABC App Cloud ",
     "Incident_Task":"ITASK102",
@@ -20,8 +16,6 @@
     "scrum_team": "Team1"
   },
   {
-    "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
-    "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "INC00241061",
     "Incident_Summary": "TCT",
     "Incident_Task":"ITASK103",
@@ -30,8 +24,6 @@
     "scrum_team": "Team1"
   },
   {
-    "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
-    "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "INC00241062",
     "Incident_Summary": "TCT",
     "Incident_Task":"ITASK104",
@@ -40,8 +32,6 @@
     "scrum_team": "Team1"
   },
   {
-    "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
-    "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "INC00241063",
     "Incident_Summary": "OpenDNS",
     "Incident_Task":"ITASK105",
